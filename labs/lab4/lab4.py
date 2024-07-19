@@ -13,6 +13,7 @@ print("merkle root hash: 448ec525a32f5f92dd9ef89c40829d0eb7c2edd59cb1639b92aea49
 data_A = 'a'
 data_B = 'b'
 data_C = 'c'
+
 data_D = 'd'
 data_E = 'e'
 data_F = 'f'
