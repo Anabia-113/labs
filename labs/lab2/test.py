@@ -7,6 +7,7 @@ salt = b.gensalt()
 hashed_text = b.hashpw(data, salt)
 print("bcrypt1: ",hashed_text)
 
+
 data = "murtazak"
 
 #md5
